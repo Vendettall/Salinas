@@ -1,0 +1,1 @@
+PFsense es un software que hace de firewall y router a la vez, no he encontrado nungun exploit ni nada para esto pero algo podremos hacer, creo que es el router principañ

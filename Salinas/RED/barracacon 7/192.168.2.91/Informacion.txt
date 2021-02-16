@@ -1,0 +1,3 @@
+Es un extensor de señal tp-link, no se donde esta ubicado exactamente
+Usuario: admin
+Contraseña: admin
